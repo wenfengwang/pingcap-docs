@@ -1,27 +1,29 @@
-# TiDBドキュメント
+# TiDB ドキュメント
 
-TiDBドキュメントへようこそ！
+TiDB ドキュメントへようこそ！
 
-このリポジトリは、[PingCAPウェブサイトのTiDBドキュメント](https://docs.pingcap.com/tidb/stable)のすべてのソースファイルを保存しています。一方、[pingcap/docs-cn](https://github.com/pingcap/docs-cn)リポジトリには、[TiDBドキュメントの中国語版](https://docs.pingcap.com/zh/tidb/stable)のソースファイルが保存されています。
+このリポジトリには、[PingCAP ウェブサイトの TiDB ドキュメント](https://docs.pingcap.com/tidb/stable)のすべてのソースファイルが格納されています。一方、[pingcap/docs-cn](https://github.com/pingcap/docs-cn) リポジトリには[中国語の TiDB ドキュメント](https://docs.pingcap.com/zh/tidb/stable)のすべてのソースファイルが格納されています。
 
-ドキュメントに問題がある場合は、[Issueを作成](https://github.com/pingcap/docs/issues/new/choose)してお知らせいただくか、直接[Pull Requestを作成](/CONTRIBUTING.md#how-to-contribute)して修正または更新の手助けをしてください。
+ドキュメントに問題がある場合は、お知らせいただくか、直接 [プルリクエストを作成](/CONTRIBUTING.md#how-to-contribute)して修正または更新するのにご協力ください。
 
-現在、公式ドキュメントでは2つの言語に対応しています：
+現在、公式ドキュメントは次の 2 つの言語をサポートしています：
 
-- `en`：[英語のドキュメント](https://docs.pingcap.com/tidb/stable)
-- `zh`：[中国語のドキュメント](https://docs.pingcap.com/zh/tidb/stable)
+- `en`: [英語のドキュメント](https://docs.pingcap.com/tidb/stable)
+- `zh`: [中国語のドキュメント](https://docs.pingcap.com/zh/tidb/stable)
 
-Google翻訳を使用して異なる言語のドキュメントを表示できます。たとえば：
+異なる言語でのドキュメントの表示には、Google 翻訳を使用できます。たとえば：
 
-- `fr`：[フランス語のドキュメント](https://translate.google.com/translate?hl=en&sl=en&tl=fr&u=https%3A%2F%2Fgithub.com%2Fpingcap%2Fdocs%2Fblob%2Fmaster%2FTOC.md)
-- `ja`：[日本語のドキュメント](https://translate.google.com/translate?hl=en&sl=en&tl=ja&u=https%3A%2F%2Fgithub.com%2Fpingcap%2Fdocs%2Fblob%2Fmaster%2FTOC.md)
-- `ko`：[韓国語のドキュメント](https://translate.google.com/translate?hl=en&sl=en&tl=ko&u=https%3A%2F%2Fgithub.com%2Fpingcap%2Fdocs%2Fblob%2Fmaster%2FTOC.md)
+Google 翻訳を使用して、異なる言語でドキュメントを表示できます。例えば:
+
+- `fr`: [フランス語のドキュメント](https://translate.google.com/translate?hl=en&sl=en&tl=fr&u=https%3A%2F%2Fgithub.com%2Fpingcap%2Fdocs%2Fblob%2Fmaster%2FTOC.md)
+- `ja`: [日本語のドキュメント](https://translate.google.com/translate?hl=en&sl=en&tl=ja&u=https%3A%2F%2Fgithub.com%2Fpingcap%2Fdocs%2Fblob%2Fmaster%2FTOC.md)
+- `ko`: [韓国語のドキュメント](https://translate.google.com/translate?hl=en&sl=en&tl=ko&u=https%3A%2F%2Fgithub.com%2Fpingcap%2Fdocs%2Fblob%2Fmaster%2FTOC.md)
 
 ## ドキュメントのバージョン
 
-現在、TiDBドキュメントの以下のバージョンを異なるブランチでメンテナンスしています：
+現在、TiDB ドキュメントの各バージョンを異なるブランチで維持しています：
 
-| ブランチ名 | TiDBドキュメントのバージョン |
+| ブランチ名 | TiDB ドキュメントのバージョン |
 | :---------|:----------|
 | [`master`](https://github.com/pingcap/docs/tree/master) | 最新の開発バージョン |
 | [`release-7.4`](https://github.com/pingcap/docs/tree/release-7.4) | 7.4 開発マイルストーンリリース |
@@ -50,8 +52,8 @@ Google翻訳を使用して異なる言語のドキュメントを表示でき�
 
 [<img src="media/contribution-map.png" alt="contribution-map" width="180"></img>](https://github.com/pingcap/docs/blob/master/credits.md)
 
-貢献者になるには、[TiDBドキュメントの貢献ガイド](/CONTRIBUTING.md)を参照してください！ 🤓
+貢献者になるには、[TiDB ドキュメントの貢献ガイド](/CONTRIBUTING.md)を参照してください！ 🤓
 
 ## ライセンス
 
-TiDB v7.0以降のすべてのドキュメントは、[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)の条件下で利用できます。
+TiDB v7.0 以降のすべてのドキュメントは [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) の条件の下で利用できます。
